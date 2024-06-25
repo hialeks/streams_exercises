@@ -1,5 +1,3 @@
-// number_screen.dart
-
 import 'package:flutter/material.dart';
 import 'package:streams_exercises/features/numbers/number_repository.dart';
 
